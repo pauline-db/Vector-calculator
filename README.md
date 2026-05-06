@@ -1,5 +1,7 @@
 # Python Vector Calculator
 
+**Date :** Autumn 2022
+
 ## Description
 
 This project is a command-line vector calculator written in Python.  
